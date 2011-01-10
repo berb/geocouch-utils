@@ -2,6 +2,8 @@
 
 This is a [CouchApp](http://couchapp.org/page/index) providing spatial functions and a set of helper scripts for GeoCouch. You can find the CouchApp in the `couchapp/` directory. For instructions on using GeoCouch, see the [GeoCouch Readme](github.com/vmx/couchdb#readme)
 
+## CouchApp
+
 ### Quick install (without cloning this repo)
 
 Replicate this CouchApp from @maxogden's [public couch](http://max.couchone.com/apps/_design/geo) to your database:
