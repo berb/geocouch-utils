@@ -246,7 +246,7 @@ Example:
         },
         "points": [{
             "id": "20132885373657090",
-            "geo": {
+            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     41.3401,
@@ -256,7 +256,7 @@ Example:
         },
         {
             "id": "20138805986066430",
-            "geo": {
+            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     41.3493,
